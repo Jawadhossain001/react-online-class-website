@@ -6,7 +6,7 @@ const CourseData=[
         description:"Learn to build Dynamic Web Applications from Scratch with PHP MySQL & CodeIgniter",
         rating: "No ratings available",
         price:50,
-        img:"https://i.imgur.com/67E2kCN.jpg"
+        img:"https://i.ibb.co/kJjc04B/images.png"
     },
     {
         id:2,
@@ -14,7 +14,7 @@ const CourseData=[
         description:"Get started with Python 3 & Django 3 Framework. Build Dynamic Web Applications from Scratch",
         rating: "No ratings available",
         price:49,
-        img:"https://i.imgur.com/Jw78JNN.jpg"
+        img:"https://i.ibb.co/j5LN2Sw/download.png"
     },
     {
         id:3,
@@ -22,7 +22,7 @@ const CourseData=[
         description:"Let me teach you what you need to know to start your venture into web development. ",
         rating: "No ratings available",
         price:55,
-        img:"https://i.imgur.com/m6KWAb4.jpg"
+        img:"https://i.ibb.co/gF4d4Q7/website-development-doylestown.gif"
     },
     {
         id:4,
@@ -30,7 +30,7 @@ const CourseData=[
         description:"You have a new idea, business plan or portfolio and you want to go live as soon as possible",
         rating: "No ratings available",
         price:56,
-        img:"https://i.imgur.com/33Cdaa9.jpg"
+        img:"https://i.ibb.co/N1D67vX/01-preview-590-300.jpg"
     },
     {
         id:5,
@@ -38,7 +38,7 @@ const CourseData=[
         description:"Complete Advanced Web Developer Course Level. 6 in 1 Course Bundle with Practicals with Projects",
         rating: "No ratings available",
         price:65,
-        img:"https://i.imgur.com/7z4s8YY.jpg"
+        img:"https://i.ibb.co/cy5zM0k/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg"
     },
     {
         id:6,
@@ -46,7 +46,7 @@ const CourseData=[
         description:"Discover JavaScript function, object and array. Covered all confusion about unit testing",
         rating: "No ratings available",
         price:45,
-        img:"https://i.imgur.com/OBLIZ3Y.jpg"
+        img:"https://i.ibb.co/XyF8S1m/images-1.png"
     },
     {
         id:7,
@@ -54,7 +54,7 @@ const CourseData=[
         description:"The most advanced and modern CSS course ",
         rating: "No ratings available",
         price:39,
-        img:"https://i.imgur.com/ikrhmFk.jpg"
+        img:"https://i.ibb.co/Z2bF42z/Introduction-To-CSS-1.jpg"
     },
     {
         id:8,
@@ -70,7 +70,7 @@ const CourseData=[
         description:"Learn how to build react web application and call its methods with JQuery.",
         rating: "No ratings available",
         price:55,
-        img:"https://i.imgur.com/Y5e1144.jpg"
+        img:"https://i.ibb.co/6bj3xgV/logo192.png"
     },
     {
         id:10,
@@ -78,7 +78,7 @@ const CourseData=[
         description:"A Beginner's Guide to Building RESTful Web Applications with NodeJS and Express",
         rating: "No ratings available",
         price:70,
-        img:"https://i.imgur.com/myANyyv.png"
+        img:"https://i.ibb.co/dgp5zDy/technical-fundamental-analysis.png"
     },
     {
         id:11,
@@ -86,7 +86,7 @@ const CourseData=[
         description:"A creative and fun course on JavaScript ES6! Has Webpack, Babel and React",
         rating: "No ratings available",
         price:60,
-        img:"https://i.imgur.com/seISenz.png"
+        img:"https://i.ibb.co/RcfXZcq/1-jfx4-Ht7e-SV1-fgl-TYMCow.png"
     },
     {
         id:12,
@@ -94,7 +94,7 @@ const CourseData=[
         description:"Coding for beginner's. Code a calculator",
         rating: "No ratings available",
         price:62,
-        img:"https://i.imgur.com/EhDtnNe.png"
+        img:"https://i.ibb.co/NZwQYqD/How-to-learn-Programming.jpg"
     }
 ]
 export default CourseData;
